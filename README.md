@@ -1,2 +1,1 @@
-# asistan
-Python ile yapay zeka destekli   kendi asistanınızı baştan yaratın
+python ile  yapay zeka asistan
